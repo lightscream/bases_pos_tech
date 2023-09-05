@@ -1,3 +1,0 @@
-Utilize o API_SP como o arquivo principal
-
-dados coletados de: https://data.worldbank.org/indicator/SP.POP.TOTL?most_recent_year_desc=true
