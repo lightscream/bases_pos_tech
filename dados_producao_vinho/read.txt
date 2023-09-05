@@ -1,3 +1,0 @@
-Dados já organizados da produção de uva, vinho e derivados.
-
-já está com subgrupos e anos transformados em colunas para agilizar o processo.
