@@ -2,13 +2,8 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-from statsmodels.tsa.arima.model import ARIMA
 from prophet import Prophet
-from pandas.plotting import register_matplotlib_converters
 import seaborn as sns
-
-# Inicializando configurações para plotagem de gráficos
-register_matplotlib_converters()
 
 # Carregando os dados do IPEA
 @st.cache_data
